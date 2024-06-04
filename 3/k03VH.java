@@ -94,6 +94,7 @@ class k03VH {
                     k--;//1個出力したので印字個数を引く
                 }
             }
+            sc.close();
             System.out.println();
         }
     }
