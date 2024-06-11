@@ -99,7 +99,5 @@ public class k02 {
             System.out.println("そんな月はないです");
             break;
         }
-
-    
     }
 }

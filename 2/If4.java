@@ -9,7 +9,6 @@ public class If4 {
         int i = rmd.nextInt(5);
 
         System.out.println("数字は" + i + "です");
-
         switch (i) {
             case 0:
             System.out.println("大吉");
