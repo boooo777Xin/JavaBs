@@ -1,5 +1,4 @@
 public class java_basicTest02 {
-
     public static void main(String[] args) {
 
         int T10[] = new int[10];
@@ -12,7 +11,5 @@ public class java_basicTest02 {
             System.out.print(T10[i]);
             System.out.print(" ");
         }
-
     }
-
 }

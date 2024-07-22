@@ -8,6 +8,16 @@ class java_basicTest03 {
         System.out.println("取得した値：" + tenki);
 
         System.out.print("今日の天気：");
+        // if文ver
+        if (tenki == 1) {
+            System.out.print("曇り");
+        } else if (tenki == 2) {
+            System.out.print("雨");
+        } else {
+            System.out.print("晴れ");
+        }
+
+        // switch文ver
         switch (tenki) {
             case 1:
                 System.out.print("曇り");
